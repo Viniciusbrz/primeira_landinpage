@@ -1,0 +1,29 @@
+PT - BR 
+
+Descrição : 
+
+Landing Page simples , feita com as linguagens de HTML para criação e Css
+para estilização da mesma.
+Metas alcançadas: Formas de enquadramento e estilização utilizando ferramentas
+como o figma e flex box , dentre outros materiais de estudo como a própria 
+vídeo aula.
+Desafios a serem alcançados: Realizar uma nova LP, com novos detalhes e design's
+próprios e realizar a responsividade da mesma.
+
+Ferramentas utilizadas: 
+ - > Figma
+ - > Visual Studio Code
+ - > Google Fonts
+
+
+EN 
+
+Description :
+
+Simple Landing Page, made with HTML authoring languages ​​and CSS
+for styling it.
+Goals achieved: Forms of framing and stylization using tools
+such as figma and flex box, among other study materials such as
+Video lessons.
+Challenges to be achieved: Make a new LP, with new details and design's
+own and carry out its responsiveness.
